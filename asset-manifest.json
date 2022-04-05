@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/R-contadorClicks/static/css/main.500a1c0b.css",
+    "main.js": "/R-contadorClicks/static/js/main.3ce2ba0e.js",
+    "static/media/logo_proyect.png": "/R-contadorClicks/static/media/logo_proyect.c8f722b3a01810480534.png",
+    "index.html": "/R-contadorClicks/index.html",
+    "main.500a1c0b.css.map": "/R-contadorClicks/static/css/main.500a1c0b.css.map",
+    "main.3ce2ba0e.js.map": "/R-contadorClicks/static/js/main.3ce2ba0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.500a1c0b.css",
+    "static/js/main.3ce2ba0e.js"
+  ]
+}
