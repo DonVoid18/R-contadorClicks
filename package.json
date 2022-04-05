@@ -2,7 +2,7 @@
   "name": "proyecto-react-contador",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://donvoid18.github.io/R-contadorClicks",
+  "homepage": "http://DonVoid18.github.io/R-contadorClicks",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
